@@ -32,7 +32,7 @@ gpdk045  	PMOS
 gpdk045	    	NMOS
 4.	This is a table of components for building the inverter schematic.
 5.	After entering components, click cancel in the add instance form or press ESC with your cursor in the schematic window.
-   ![330012802-aa5e106f-4ac9-4e48-9209-415dbe78915d](https://github.com/santhoshoff/VLSI-LAB-EXP-6/assets/143347356/6aa89361-9aef-4282-99a8-8239d1e4b701)
+   ![image](https://github.com/santhoshoff/VLSI-LAB-EXP-6/assets/143347356/6aa89361-9aef-4282-99a8-8239d1e4b701)
   	
 Adding pins to schematic:
 1.	Click the pin fixed menu icon in the schematic window. You can execute create pin or press ‘p’.
@@ -68,7 +68,7 @@ Analog lib	Vdc, gnd	Vdc = 1.8v
 8.	Click on the check and save icon to save the design.
 
  
-![330013145-6830af64-2c36-428f-bbbf-22af157bf979](https://github.com/santhoshoff/VLSI-LAB-EXP-6/assets/143347356/297be0c6-81e3-4c85-ac21-c72ffab16997)
+![image](https://github.com/santhoshoff/VLSI-LAB-EXP-6/assets/143347356/297be0c6-81e3-4c85-ac21-c72ffab16997)
 
 **ANALOG SIMULATION WITH SPECTRA:**
 Starting the simulation environment:
@@ -112,15 +112,18 @@ Running the simulation:
 
 **NAND SCHEMATIC**
 
-![image](https://github.com/harikaran814/VLSI-LAB-EXP-6/assets/164861651/dedc9bb1-df1b-4f97-be08-61b8e6fa811a)
- 
+
+ ![image](https://github.com/santhoshoff/VLSI-LAB-EXP-6/assets/143347356/b24ede6e-93ba-47b5-8c9b-9ebd1a31932d)
+
 **NAND TEST CELL VIEW**
 
-![image](https://github.com/harikaran814/VLSI-LAB-EXP-6/assets/164861651/dda019cf-fceb-4ed2-989f-49c2a778daf2)
+![image](https://github.com/santhoshoff/VLSI-LAB-EXP-6/assets/143347356/1b976177-a313-4b70-836f-c01477121189)
+
  
 **NAND SIMULATION WITH SPECTRA**
  
-![image](https://github.com/harikaran814/VLSI-LAB-EXP-6/assets/164861651/f12a0360-1b7a-4b0d-875a-8e62f59eb953)
+
+![image](https://github.com/santhoshoff/VLSI-LAB-EXP-6/assets/143347356/3c77ff48-c7c0-4d46-97aa-32cd8af6a443)
 
 
 
@@ -128,15 +131,17 @@ Running the simulation:
 
 **NOR SCHEMATIC**
 
- ![image](https://github.com/harikaran814/VLSI-LAB-EXP-6/assets/164861651/ab974519-6098-4a26-abb8-38c0dba99a6d)
+ ![image](https://github.com/santhoshoff/VLSI-LAB-EXP-6/assets/143347356/449d6446-cf03-4054-8f43-da6e8e4df533)
+
 
 **NOR TEST CELL VIEW**
 
-![image](https://github.com/harikaran814/VLSI-LAB-EXP-6/assets/164861651/2db988b3-f7a2-40b9-b6b1-8b00626e6289)
+![image](https://github.com/santhoshoff/VLSI-LAB-EXP-6/assets/143347356/f9009174-de5c-4efd-a298-af1c097d94d3)
+
 
 **NOR SIMULATION WITH SPECTRA**
 
- ![image](https://github.com/harikaran814/VLSI-LAB-EXP-6/assets/164861651/c599d528-5f2d-4867-9e7d-6d40ffed9ec9)
+ ![image](https://github.com/santhoshoff/VLSI-LAB-EXP-6/assets/143347356/4eeebef3-8d06-4acb-99cc-753e2bf79bd3)
 
 
  **RESULT:**
